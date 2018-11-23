@@ -1,0 +1,31 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #4a4e50;
+  font: bold;
+}
+h2 {
+	color: #16a613;
+	margin: 0px 0px 5px;
+	padding: 0px 0px 3px;
+	font: bold 36px Verdana, Arial, Helvetica, sans-serif;
+}
+h3 {
+	color: #000000;
+	margin: 0px 0px 5px;
+	padding: 0px 0px 3px;
+	font: bold 18px Verdana, Arial, Helvetica, sans-serif;
+}
+#fimgs {
+  margin-left: 2.5%;
+}
+#main-container {
+  margin-left: 35%;
+}
+#stats {
+  text-align: center;
+}
+mark {
+    background-color: red;
+    color: #e7f20f;
+}
